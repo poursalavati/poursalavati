@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @poursalavati (Naser)
-- 👀 I’m interested in Unix based bioinformatics and Python
-- 🌱 I’m currently doing my PhD project at Sherbrooke university and Agriculture Agrifood Canada (AAFC)
-- 💞️ I’m looking to collaborate on I) Soil Virome analysis and II) Non-coding RNA annotation
-- 📫 How to reach me: Poursalavati.Abdonaser(at)Usherbrooke.ca or Abdonaser.Poursalavati(at)Canada.ca
+- 👋 Hi there, I'm Naser (@poursalavati)!
+- 💻 Interested in Unix-based bioinformatics, data science, and open-source development
+- 🌱 PhD Candidate (Sherbrooke U. & AAFC) | Research: Soil Virome Analysis (workflows, methods, microbiome integration)
+- 🤝🏼 Open to collaborations on virus analysis workflows and related projects
+- 📫 Reach me at: Poursalavati.Abdonaser(at)Usherbrooke.ca or Abdonaser.Poursalavati(at)agr.gc.ca
 
 <!---
 poursalavati/poursalavati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
